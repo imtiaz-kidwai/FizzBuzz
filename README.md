@@ -194,7 +194,7 @@ Now that you've made your first edits to your code, you should ask git to save t
 
 - [ ] Open the Terminal tab in IntelliJ and type `git status`, it will show you that you have modified `FizzBuzz.java` (and this README too!).
 
-We will save our local changes to `FizzBuzz.java` and then push the changes to your GitHub repository using
+We will save our local changes to `FizzBuzz.java` and then push tgit gihe changes to your GitHub repository using
 a sequence of three git commands:
 
 1. `git add FizzBuzz.java`
@@ -209,7 +209,7 @@ a sequence of three git commands:
 3. `git push`
    - this last step is what actually sends your committed changes to your remote GitHub repository.
 
-- [ ] Once you execute these commands, you can check your GitHub repository to confirm that the changes have been made there.
+- [ X ] Once you execute these commands, you can check your GitHub repository to confirm that the changes have been made there.
 
 - [ ] repeat the above steps for `README.md` (or try using the approach below).
 
